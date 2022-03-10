@@ -1,7 +1,7 @@
 url: $ORDER_ENDPOINT
 status: up
 code: 401
-responseTime: 9
-lastUpdated: 2022-03-09T23:06:08.286Z
+responseTime: 44
+lastUpdated: 2022-03-10T23:06:14.391Z
 startTime: Thu Feb 17 2022 17:11:56 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
